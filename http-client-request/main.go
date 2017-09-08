@@ -1,6 +1,6 @@
 package main
 
-import "simple-pentest-tools/lib/request"
+import "go-tools/lib/request"
 import "fmt"
 
 func main() {
